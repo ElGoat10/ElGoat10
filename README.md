@@ -1,6 +1,6 @@
 dio![Aditya Kanoi Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hola, soy Carlos Adrian</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 
@@ -9,11 +9,10 @@ dio![Aditya Kanoi Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blo
 👨‍💻 &nbsp;Actualmente estudio en el Politecnico ITLA en el area de Software como desarrollador de Sistemas Web..\
 💡 &nbsp;Me gusta explorar nuevos lenguajes y tecnologías y desarrollar soluciones de software y trucos rápidos.\
 🎓 &nbsp;Mas a futuro pienso seguir estudiando Ingenieria en Software en el Instituto Tecnológico de Las Américas (ITLA).\
-🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
+🌱 &nbsp;Estoy en camino de aprender más sobre PHP, aprender mas tecnologias de JavaScript y otros lenguajes de programacion.\
+✍️ &nbsp;En mi tiempo libre, me dedico al diseño de Nuevas Paginas Web y a practicar para mejorar mis habilidades.\
+✉️ &nbsp;¡Puedes enviarme un correo electrónico a carlosadrian1708@gmail.com ! Intentaré responder tan pronto como pueda.\
+📄 &nbsp;Eche un vistazo a mi currículum para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
