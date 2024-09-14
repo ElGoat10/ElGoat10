@@ -57,4 +57,11 @@
   &emsp;
     <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
   &emsp;
+  
 <br/>
+
+## Github Stats 
+
+<img src="https://github-readme-stats.vercel.app/api?username=ElGoat10&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-yadav&theme=blueberry_duo"/>
+|---|---|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElGoat10&layout=compact&theme=github_dark"/>|
