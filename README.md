@@ -1,4 +1,4 @@
-<img alt="portada" src="./assets/Mf08.gif" width='1100' align="left"/><h2 align="left">Hola, soy Carlos Adrian</h2>
+<img alt="portada" src="./assets/thumb-1920-1372963.png" width='1100' align="left"/><h2 align="left">Hola, soy Carlos Adrian</h2>
 
 ### 👨🏻‍💻 &nbsp;Sobre Mí
 
