@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Agenda de Contactos</title>
+</head>
+
+<body>
+    <div class="contenedor">
+        <div class="menu-superior">
+            <a href="#" class="elemento-menu-superior">AGENDA DE CONTACTOS</a>
+            <a href="#" class="agregar-contacto" id="botonAgregar">+</a>
+        </div>
+        <div class="sub-menu">
+            <a href="index.html">SUGERENCIAS</a>
+            <a href="Favoritos.html">AGREGADOS</a>
+        </div>
+        <div class="contenido">
+            <div class="caja-principal" id="cajaPrincipal">
+                <div class="contenedor-contactos">
+                    
+                    <div id="noContactos" class="no-contactos">
+                        <span ><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-address-book-off" width="48" height="48" viewBox="0 0 24 24" stroke-width="1.5" stroke="#2c3e50" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                            <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+                            <path d="M8 4h10a2 2 0 0 1 2 2v10m-.57 3.399c-.363 .37 -.87 .601 -1.43 .601h-10a2 2 0 0 1 -2 -2v-12" />
+                            <path d="M10 16h6" />
+                            <path d="M11 11a2 2 0 0 0 2 2m2 -2a2 2 0 0 0 -2 -2" />
+                            <path d="M4 8h3" />
+                            <path d="M4 12h3" />
+                            <path d="M4 16h3" />
+                            <path d="M3 3l18 18" />
+                          </svg></span>
+                        <h2>No tienes contactos aún</h2>
+                        <p>¡Agrega tu primer contacto y mantente conectado!</p>
+                        <a href="#" class="boton-agregar-contacto" id="botonAgregar">+ Agregar Contacto</a>
+                    </div>
+
+                    <div class="contenedor-formulario" id="contenedorFormulario">
+                        <form>
+                            <h3>Agregar Contacto</h3>
+                    
+                            <label for="nombre">Nombre:</label>
+                            <input type="text" id="nombre" name="nombre" placeholder="Ingrese su nombre">
+                    
+                            <label for="direccion">Dirección:</label>
+                            <input type="text" id="direccion" name="direccion" placeholder="Ingrese su dirección">
+                    
+                            <label for="telefono">Teléfono:</label>
+                            <input type="text" id="telefono" name="telefono" placeholder="Ingrese su teléfono">
+                    
+                            <label for="correo">Correo Electrónico:</label>
+                            <input type="email" id="correo" name="correo" placeholder="Ingrese su correo electrónico">
+                    
+                            <label for="fechaNacimiento">Fecha de Nacimiento:</label>
+                            <input type="date" id="fechaNacimiento" name="fechaNacimiento">
+                    
+                            <label for="imagen">Imagen de Perfil:</label>
+                            <input type="file" id="imagen" name="imagen" accept="image/*">
+                    
+                            <button type="submit">Guardar</button>
+                        </form>
+                    </div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
